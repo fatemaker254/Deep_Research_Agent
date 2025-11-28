@@ -1,4 +1,4 @@
-# 🔍 Deep Research Agent — Taiyo GenAI Task
+# 🔍 Deep Research Agent GenAI Task
 
 A modular, production-aligned **Deep Research Agent** capable of autonomous research, multi-step reasoning, and citation-aware synthesis.
 
